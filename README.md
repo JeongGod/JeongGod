@@ -1,5 +1,7 @@
-### Hi there 👋
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JeongGod&theme=radical&show_icons=true)](https://github.com/JeongGod/github-readme-stats)
+
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=jeonggu223)](https://solved.ac/jeonggu223)
 <!--
 **JeongGod/JeongGOd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
