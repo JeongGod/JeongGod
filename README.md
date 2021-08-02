@@ -1,5 +1,5 @@
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JeongGod&theme=radical&show_icons=true)](https://github.com/JeongGod/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JeongGod&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=jeonggu223)](https://solved.ac/jeonggu223)
 <!--
